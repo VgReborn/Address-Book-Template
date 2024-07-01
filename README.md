@@ -20,9 +20,6 @@ There are "#pragma warning disable" to ignore certain warnings because there alr
 - CS0649
 - CS8601
 
-Note: They will be show
-
-
 These are Resolve nullable warnings and more information about them can be found here [Resolve Nullable Warnings](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-messages/nullable-warnings?f1url=%3FappId%3Droslyn%26k%3Dk(CS8602))
 
 #### Lists of Methods
