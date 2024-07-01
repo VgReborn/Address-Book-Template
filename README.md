@@ -2,6 +2,7 @@ Recommended .NET Version 7.0+
 
 There are files under "Core Files" folder. They will be explained here
 
+**NOTE: There should be no null values within the methods or parameters. If so, there will be some issues.**
 # Documentation
 
 ### Core Files
