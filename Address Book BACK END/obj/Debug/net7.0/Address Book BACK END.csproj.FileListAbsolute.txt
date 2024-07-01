@@ -1,0 +1,17 @@
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.csproj.AssemblyReference.cache
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.AssemblyInfoInputs.cache
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.AssemblyInfo.cs
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.csproj.CoreCompileInputs.cache
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\bin\Debug\net7.0\Address Book BACK END.exe
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\bin\Debug\net7.0\Address Book BACK END.deps.json
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\bin\Debug\net7.0\Address Book BACK END.runtimeconfig.json
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\bin\Debug\net7.0\Address Book BACK END.dll
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\bin\Debug\net7.0\Address Book BACK END.pdb
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.csproj.CopyComplete
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.dll
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\refint\Address Book BACK END.dll
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.pdb
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\Address Book BACK END.genruntimeconfig.cache
+C:\Users\gombi\OneDrive\Documents\C# Projects\Address Book BACK END\obj\Debug\net7.0\ref\Address Book BACK END.dll
