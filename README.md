@@ -25,7 +25,7 @@ These are Resolve nullable warnings and more information about them can be found
 #### Lists of Methods
 1. `public static void GetFile(string path = "", bool writeToTempData = false, bool useTempData=false)`
     > This brings in the contents from the file into temporary data, effectively copying it so it can be manipulated directly without changing anything to <br>
-    > the original file. Once finish, the temp data will be stored under the "temp" folder, which can be reused when needed to (can only store 1 temp file at a time)
+    > the original file. Once finished, the temp data will be stored under the "temp" folder, which can be reused when needed to (can only store 1 temp file at a time)
 
 2. `private static void Input(JObject _content) `
     > This method gets the temporary data to be process. Once it is process. the data will be ready to be manipulated <br>
