@@ -88,3 +88,6 @@ programmer/developer or the best programmer out here so expect some malpractices
 
 **Note: Due to the barebone nature of this program, there are tons of tools missing that you may need like directly manipulate a certain<br>**
 **data in a specific index, and you may need to implemnt it. (It is really easy but I cannot assume what the developer may need)**
+
+This project is licensed under the terms of the MIT license.
+
