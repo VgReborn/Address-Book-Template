@@ -96,7 +96,6 @@ namespace ABook
             };
 
             FileStream _fs = File.Open(tempFilePath, FileMode.Open); //To ensure there will be no IO exceptions when trying to access the same file
-            Console.WriteLine(contents);
             byte[] _contents = new UTF8Encoding(true).GetBytes(contents);
 
             _fs.Write(_contents);
