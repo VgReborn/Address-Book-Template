@@ -1,3 +1,6 @@
+## Dependencies
+- Newtonsoft.json
+
 Recommended .NET Version 7.0+
 
 There are files under "Core Files" folder. They will be explained here
